@@ -1,0 +1,23 @@
+{
+  "name": "docker_check-test",
+  "version": "1.0.0",
+  "description": "Use to create And compose Docker file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alid3456778/Docker_Check-Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alid3456778/Docker_Check-Test/issues"
+  },
+  "homepage": "https://github.com/Alid3456778/Docker_Check-Test#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
